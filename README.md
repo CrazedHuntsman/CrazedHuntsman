@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... animation
 - 🌱 I’m currently learning ... hopefully coding and animation
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... nighty in the class discord, just ping me
+- 📫 How to reach me ... CloneLoki or Damian in the class discord, just ping me
 
 <!---
 CrazedHuntsman/CrazedHuntsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
